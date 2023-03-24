@@ -1,6 +1,6 @@
 
-
-<h2 align="left">Hi 👋! My name is Akash and I'm working in Bootcoding.</h2>
+<h1>Hi there 👋! </h1>
+<h2 align="left"> My name is Akash Sadawarti.</h2>
 
 ###
 
