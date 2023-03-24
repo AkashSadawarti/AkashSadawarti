@@ -12,6 +12,13 @@
 ###
 
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AkashSadawarti"  />
+</div>
+
+###
 
 ###
 <h2 align="left"> 🔭 Tools of Trade</h2>
