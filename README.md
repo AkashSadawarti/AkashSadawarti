@@ -42,9 +42,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AkashSadawarti/AkashSadawarti/blob/output/snake.svg" alt="Snake animation" />
-
-
-###
